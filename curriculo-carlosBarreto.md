@@ -4,36 +4,36 @@
 ![Header](https://images.unsplash.com/photo-1584697964358-3e14ca57658b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
 
 ## Dados Pessoais 📄
-![Profile Picture](https://sgn.sesisenai.org.br/arquivos/cliente/fd/ae/b4/fdaeb4ff9f586183d8cc899fdfef78e7/WIN_20240117_18_28_42_Pro.jpg)
-- **Nome:** [Carlos Eduardo Mohr barreto] 🙍‍♂️
-- **Email:** [carluseduardobarreto@gmail.com] 📧
-- **Instagram:** [https://www.instagram.com/c_.barreto/](https://www.linkedin.com) 🔗
-- **GitHub:** [https://github.com/barretocarlos](https://www.github.com) 🔗
+![Profile Picture](https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80)
+- **Nome:** [Seu nome completo] 🙍‍♂️
+- **Email:** [Seu email] 📧
+- **Instagram:** [Link do seu Instagram](https://www.linkedin.com) 🔗
+- **GitHub:** [Link do seu GitHub](https://www.github.com) 🔗
 
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [SENAI]
-  - **Curso:** [TDESI2024-1-V1]
-  - **Ano de Conclusão:** [2025]
+  - **Instituição:** [Nome da Instituição]
+  - **Curso:** [Nome do Curso]
+  - **Ano de Conclusão:** [Ano de Conclusão]
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Senior Sistemas]
-  - **Empresa2:** [Ailos]
-  - **Empresa3:** [Viacred]
+  - **Empresa1:** [Nome da Empresa]
+  - **Empresa2:** [Nome da Empresa]
+  - **Empresa3:** [Nome da Empresa]
 
 ## Habilidades que eu quero Desenvolver🛠️
 ![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Lista de habilidades]**
-  - Desenvolvimento de software
-  - Análise de dados
+  - Habilidade 1
+  - Habilidade 2
 
 ## Com o Senai eu Aprendi 🎉
 ![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Aprendizados]**
-  - Lógica de programação
-  - Fundamentos de Eletroeletrônica
+  - Aprendizado 1
+  - Aprendizado 2
 
 ## GIF Motivacional 
-![Motivational GIF](https://gifman.net/wp-content/uploads/2019/07/bob-esponja-21.gif)
+![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
