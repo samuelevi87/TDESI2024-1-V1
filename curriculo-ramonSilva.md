@@ -1,21 +1,22 @@
 
 # Meu Currículo 🌟
 
-![Header](https://images.unsplash.com/photo-1584697964358-3e14ca57658b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
+![Header](https://media.istockphoto.com/id/873507500/pt/foto/image-of-open-antique-book-on-wooden-table-with-glitter-overlay.jpg?s=1024x1024&w=is&k=20&c=KzYMj7lUtQ6mXFb4C9_VV41wZCp3EdwxRPnFhjubVPM=)
 
 ## Dados Pessoais 📄
-![Profile Picture](https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80)
-- **Nome:** [Seu nome completo] 🙍‍♂️
-- **Email:** [Seu email] 📧
-- **Instagram:** [Link do seu Instagram](https://www.linkedin.com) 🔗
-- **GitHub:** [Link do seu GitHub](https://www.github.com) 🔗
+![Profile Picture]()
+- **Nome:** [Ramon da Silva Avila de Oliveira] 🙍‍♂️
+- **Email:** [ramon_s_oliveira@estudante.sc.senai.br]
+- **Linkedin:**[https://br.linkedin.com/] 📧
+- **GitHub:** [Link do GitHub](https://github.com/Ramons1) 🔗🔗
+
 
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** [Senai]
+  - **Curso:** [Desenhista Mecânico]
+  - **Ano de Conclusão:** [2019]
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
@@ -36,4 +37,4 @@
   - Aprendizado 2
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://media.giphy.com/media/XZP5De3UVGXA9GuiJc/giphy.gif?cid=ecf05e47dih9wg6tu9wbzbs3jmflpjh5owkw2lsx77b7m9ns&ep=v1_gifs_search&rid=giphy.gif&ct=g)
